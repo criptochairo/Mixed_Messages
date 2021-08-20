@@ -22,16 +22,15 @@
 
 ## Technologies Used
 
-- Javascript.
+- Javascript 1.5.
 - Markdown.
 
 ## Features
 
 List the ready features here:
 
-- Will randomize output. That's about it for now.
+- Has a function designed to randomize output which takes two arguments: a prompt and an answer, both are arrays of possible strings.
 
 ## Screenshots
 
-Will post at a later date.
-<!-- If you have screenshots you'd like to share, include them here. -->
+![screenshot](Images/screenshot.png)
